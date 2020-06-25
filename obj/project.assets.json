@@ -6093,11 +6093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paul/temp/api-user-secrets/api-user-secrets.csproj",
+      "projectUniqueName": "/home/paul/dotnet-user-secrets-az-keyvault-1/api-user-secrets.csproj",
       "projectName": "api-user-secrets",
-      "projectPath": "/home/paul/temp/api-user-secrets/api-user-secrets.csproj",
+      "projectPath": "/home/paul/dotnet-user-secrets-az-keyvault-1/api-user-secrets.csproj",
       "packagesPath": "/home/paul/.nuget/packages/",
-      "outputPath": "/home/paul/temp/api-user-secrets/obj/",
+      "outputPath": "/home/paul/dotnet-user-secrets-az-keyvault-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/paul/.nuget/NuGet/NuGet.Config"

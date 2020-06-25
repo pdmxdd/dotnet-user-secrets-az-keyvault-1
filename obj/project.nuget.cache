@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZaRBBCN8elmEOR3+f8Gmz3ytivdhQE1AOIixZZA6QlCaltudsIM8OEGxhRwnBSGLSGkQXp56Qm+fWlE9bDtsA==",
+  "dgSpecHash": "Retxs9UEoZBlgqZEKQyhWfnetauDM42J7/4H8nudX+g1ir+5R0BR2q3OK25KD2ueIjjPebov3VMnjeNaA255og==",
   "success": true,
-  "projectFilePath": "/home/paul/temp/api-user-secrets/api-user-secrets.csproj",
+  "projectFilePath": "/home/paul/dotnet-user-secrets-az-keyvault-1/api-user-secrets.csproj",
   "expectedPackageFiles": [
     "/home/paul/.nuget/packages/microsoft.azure.keyvault/3.0.5/microsoft.azure.keyvault.3.0.5.nupkg.sha512",
     "/home/paul/.nuget/packages/microsoft.azure.keyvault.webkey/3.0.5/microsoft.azure.keyvault.webkey.3.0.5.nupkg.sha512",
